@@ -1,4 +1,0 @@
-{
-  "mongoURI": "mongodb+srv://wevita:wevita5401@cluster0.y1gn7.mongodb.net/Learning?retryWrites=true&w=majority",
-  "jwtSecret": "mysecrettoken"
-}
